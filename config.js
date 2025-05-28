@@ -16,15 +16,15 @@ HGC vẫn là nhà.
 Một phần ở lại trong tim
 Để rồi ngày nào trở về, tìm.`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    title: 'Phải chăng anh chị đã đồng ý ghé show 🥰',
     desc: 'Thoát web là chấp nhận đi show rồi nhé!!!',
     btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnNo: 'Không có chuyện là không đi nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    messDesc: 'Tối sau, mình qua đón đi show nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://facebook.com/dinhkaito' //link mess của các bạn. VD: /dinhkaito
+    messLink: 'link HGC' //link mess của các bạn. VD: /dinhkaito
 }
