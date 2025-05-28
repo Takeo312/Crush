@@ -20,11 +20,11 @@ Một phần ở lại trong tim
     desc: 'Thoát web là chấp nhận đi show rồi nhé!!!',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không có chuyện là không đi nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối sau, mình qua đón đi show nha.',
+    question: 'Có muốn đi show không ạ',
+    btnReply: 'Có hoặc không nha',
+    reply: 'Chắc chắn là đi rồi!',
+    mess: 'Em biết mà 🥰. Yêu anh chị nhiều nhiều 😘😘',
+    messDesc: 'Tối sau, em qua đón đi show nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'link HGC' //link mess của các bạn. VD: /dinhkaito
 }
